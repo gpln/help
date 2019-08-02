@@ -1,3 +1,9 @@
+---
+layout: default
+title: Onboarding Next Steps
+description: Get your venue online and start booking parties in a few easy steps.
+---
+
 ### 1. Review and sign the GamePlan Marketplace Partner Agreement
 Your GamePlan contact will send an electronic agreement for you to sign. If you don't have an agreement yet, please email venues@getgameplan.com.
 
@@ -12,7 +18,7 @@ Send the following information to your partner contact.
 ### 3. We build your venue page on GamePlan
 GamePlan follows your group dining policies. This includes any room configuration, capacity, fee, deposit (% or fixed), and/or minimum dollar amount.
 
-If we're missing any information, your partner contact will email or call you to complete this step. 
+If we're missing any information, your partner contact will email or call you to complete this step.
 
 ### 4. Schedule meeting to review your GamePlan venue page
 Once all group dining information is entered into our system, your GamePlan partner contact will schedule a meeting to review your group dining information to make sure everything looks good.
