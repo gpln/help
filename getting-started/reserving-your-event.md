@@ -1,5 +1,9 @@
-# Reserving your event
-## Book your room, menu, and addons with instant confirmation and online payment options
+---
+layout: default
+title: Reserving your event
+description: Book your room, menu, and addons with instant confirmation and online payment options
+redirect_from: "/en/articles/1138783-reserving-your-event/"
+---
 
 Once you've decided on a restaurant's offering for your event, booking online via GamePlan is quick and easy.
 

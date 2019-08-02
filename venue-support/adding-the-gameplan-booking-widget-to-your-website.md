@@ -48,6 +48,6 @@ The installation code generated includes a unique ID that refers to the specific
 
 You can add the following query parameters to the script source URL to override their settings:
 
-- `width` : A fixed width to use for the widget in pixels. If you omit the width  parameter, the widget will default to 100% of the width of its container.
+- `width` : A fixed width to use for the widget in pixels. If you omit the width  parameter, the widget will default to `100%` of the width of its container.
 - `defaultExperienceId`  *(Availability search widget only)*: If you have multiple listings for your location (e.g. Seated Meals, Receptions, and Happy Hours), you can specify the ID of the default listing selected in the search widget. The ID is the number after https://book.getgameplan.com/view/ in your listing URLs (your partner contact can help you with this if needed).
-- `headerText`  *(Availability search widget only)*: Customize the title of the widget. If you exclude the headerText  parameter, the title will default to "View & reserve group dining options".
+- `headerText`  *(Availability search widget only)*: Customize the title of the widget. If you exclude the `headerText` parameter, the title will default to "View & reserve group dining options".

@@ -1,5 +1,9 @@
-# Instant booking explained
-## Reserve your space and meal online in an instant
+---
+layout: default
+title: Instant booking explained
+description: Reserve your space and meal online in an instant
+redirect_from: "/en/articles/1138767-instant-booking-explained/"
+---
 
 Many of the experiences you find will have instant booking available. This means you can reserve your room, menu, and any addons for a specific time and number of guests immediately through our website. Availability is shown in real-time, so you can book with confidence knowing your party and event details are confirmed.
 
