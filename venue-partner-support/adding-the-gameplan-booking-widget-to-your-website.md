@@ -1,5 +1,8 @@
-# Adding the GamePlan booking widget to your website
-## Showcase your group dining options and accept online reservations from interested guests 24/7 - all on your own website.
+---
+layout: default
+title: Adding the GamePlan booking widget to your website
+description: Showcase your group dining options and accept online reservations from interested guests 24/7 - all on your own website.
+---
 
 ### Your guests are finding you online – why wait to capture their business?
 Busy event organizers are using the internet to research venues for their large parties every day. With GamePlan’s group dining reservation technology, you can be the first to present your event offerings and banquet packages, offer a quote, and convert visitors to bookings – all automated, and all on your own website.
