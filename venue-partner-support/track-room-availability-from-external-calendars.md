@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Track room availability from external calendars
-description: If you already use Google Calendar, Tripleseat, Gather, or other software to manage room inventory, you may be able to share it with us.
+description: ''
+redirect_from: "/en/articles/1424814-track-room-availability-from-external-calendars/"
 ---
 
 If you already use another calendar or event management tool to keep track of room availability, you may be able to "link" the bookings from that tool with GamePlan.

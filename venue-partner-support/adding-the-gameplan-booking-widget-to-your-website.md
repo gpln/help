@@ -2,6 +2,7 @@
 layout: default
 title: Adding the GamePlan booking widget to your website
 description: Showcase your group dining options and accept online reservations from interested guests 24/7 - all on your own website.
+redirect_from: "/en/articles/1674368-adding-the-gameplan-booking-widget-to-your-website/"
 ---
 
 ### Your guests are finding you online – why wait to capture their business?

@@ -2,6 +2,7 @@
 layout: default
 title: Onboarding Next Steps
 description: Get your venue online and start booking parties in a few easy steps.
+redirect_from: "/en/articles/1484917-onboarding-next-steps/"
 ---
 
 ### 1. Review and sign the GamePlan Marketplace Partner Agreement
