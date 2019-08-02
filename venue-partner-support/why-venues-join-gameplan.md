@@ -1,3 +1,9 @@
+---
+layout: default
+title: Why venues join GamePlan?
+description: Receive parties, not inquiries.
+---
+
 GamePlan is a group dining platform that provides venues an opportunity to market directly to large groups, especially focusing on the lucrative corporate market. We provide a new revenue stream while reducing the burden of planning and coordination on the venue staff.
 
 ### What you get

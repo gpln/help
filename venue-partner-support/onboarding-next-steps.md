@@ -5,7 +5,7 @@ description: Get your venue online and start booking parties in a few easy steps
 ---
 
 ### 1. Review and sign the GamePlan Marketplace Partner Agreement
-Your GamePlan contact will send an electronic agreement for you to sign. If you don't have an agreement yet, please email venues@getgameplan.com.
+Your GamePlan contact will send an electronic agreement for you to sign. If you don't have an agreement yet, please email [venues@getgameplan.com](mailto:venues@getgameplan.com).
 
 ### 2. Send group dining information
 Send the following information to your partner contact.
